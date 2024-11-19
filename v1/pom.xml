@@ -47,9 +47,9 @@
     <commons-csv.version>1.8</commons-csv.version>
     <commons-text.version>1.10.0</commons-text.version>
     <grpc.gen.version>1.13.1</grpc.gen.version>
-    <kafka.clients.version>1.0.0</kafka.clients.version>
+    <kafka.clients.version>7.7.1-ce</kafka.clients.version>
     <threetenbp.version>1.4.4</threetenbp.version>
-    <spring.version>5.2.22.RELEASE</spring.version>
+    <spring.version>5.3.39</spring.version>
     <tensorflow.version>1.15.0</tensorflow.version>
     <dlp.version>2.1.0</dlp.version>
     <hbase.version>2.5.3-hadoop3</hbase.version>
